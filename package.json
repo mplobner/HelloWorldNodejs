@@ -1,0 +1,22 @@
+{
+  "name": "helloworldnodejs",
+  "version": "1.0.0",
+  "description": "Hello world simple node.js app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mplobner/HelloWorldNodejs.git"
+  },
+  "author": "Mathieu Plobner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mplobner/HelloWorldNodejs/issues"
+  },
+  "homepage": "https://github.com/mplobner/HelloWorldNodejs#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
